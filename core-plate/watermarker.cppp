@@ -1,0 +1,11 @@
+#include <iostream>
+#include <kaeengine3>
+
+int main() {
+    addhtml("<div style='position: fixed; bottom: 10px;'>Site made by SiteMaker by SmuziCodeCode</div>", all-root-pages);
+
+    return 0;
+}
+int htmlsaver() {
+  xssblocker.antiblock(false);
+}
